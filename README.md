@@ -1,11 +1,9 @@
 # Edge-Disjoint-Routing-Algorithms-
 Simple implementations for edge-disjoint shortest path routing algorithms, including followings:
 
-1- Suurballe
-
-2- Suuballe and Tarjan
-
-3- K-edge-disjoint shortest paths
+1- Suurballe <br/>
+2- Suuballe and Tarjan <br/>
+3- K-edge-disjoint shortest paths <br/>
 
 
 references:
